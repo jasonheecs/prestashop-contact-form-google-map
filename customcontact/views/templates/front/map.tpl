@@ -132,7 +132,7 @@ var GMap = (function() {
 	function init() {				
 		var script = document.createElement("script");
 		script.type = "text/javascript";
-		script.src = "https://maps.googleapis.com/maps/api/js?key={/literal}$map_api{literal}&v=3" + "&callback=GMap.initMap";
+		script.src = "https://maps.googleapis.com/maps/api/js?key={/literal}{$map_api}{literal}&v=3" + "&callback=GMap.initMap";
 		document.body.appendChild(script);
 	}
 
