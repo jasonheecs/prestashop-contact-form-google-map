@@ -3,7 +3,7 @@ A custom module that overrides the Prestashop contact form with custom styling a
 ![alt tag](http://i.imgur.com/fqQqkEh.jpg)
 
 # Demo
-You can view a demo of this module at <a href="http://prestashop.jason-hee.com/en/contact-us" target="_blank">http://prestashop.jason-hee.com/en/contact-us</a>
+You can view a demo of this module at [http://prestashop.jason-hee.com/en/contact-us](http://prestashop.jason-hee.com/en/contact-us)
 
 # Setup
 ## Download
