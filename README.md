@@ -1,24 +1,25 @@
 # Prestashop Custom Contact Form
 A custom module that overrides the Prestashop contact form with custom styling and a Google Map background
-
-![alt tag](http://i.imgur.com/yNXH4WP.jpg)
+![alt tag](http://i.imgur.com/fqQqkEh.jpg)
 
 # Demo
-You can view a demo of this module at [http://prestashop.jason-hee.com/en/contact-us](http://prestashop.jason-hee.com/en/contact-us){.target-blank .rel-nofollow}
+You can view a demo of this module at <a href="http://prestashop.jason-hee.com/en/contact-us" target="_blank" rel="no-follow">http://prestashop.jason-hee.com/en/contact-us</a>
 
 # Setup
-[Download](https://github.com/jasonheecs/prestashop-contact-form-google-map/archive/master.zip) or clone this repository into your project's modules directory. The module files should reside in your <project dir>/modules/customcontact directory.
+[Download](https://github.com/jasonheecs/prestashop-contact-form-google-map/archive/master.zip) or clone this repository into your project's modules directory. The module files should reside in your `<project dir>/modules/customcontact` directory.
 
 # Installation
 Once the module files are in your project, you should be able to see the **Custom Contact** module in your admin back-office.
+
 ![alt tag](http://i.imgur.com/kOqHPuo.jpg)
 
 Click on the **Install** button to install the module.
 
 Once the module is installed, you can click on the **Configure** button to configure the module settings. The configuration screen looks like this:
-![alt tag](http://i.imgur.com/FRkQQsc.jpg)
 
-You will need a [Google Maps API key](https://developers.google.com/maps/documentation/javascript/get-api-key){.target-blank .rel-nofollow} in order for the Google map to load.
+![alt tag](http://i.imgur.com/xksqTj5.jpg)
+
+You will need a [Google Maps API key](https://developers.google.com/maps/documentation/javascript/get-api-key) in order for the Google map to load.
 
 # Supported versions
 This module is meant for Prestashop v1.6.x. It will not work on Prestashop 1.7.
