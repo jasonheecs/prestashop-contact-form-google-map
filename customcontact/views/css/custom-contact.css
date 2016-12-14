@@ -1,0 +1,40 @@
+#contact #columns > .container {
+  width: 100%;
+}
+
+.contact-form-box {
+  position: static;
+  top: 5%;
+  left: 5%;
+  width: 100%;
+  background: #fff;
+  z-index: 1;
+  margin-top: 20px;
+}
+
+.contact-form-box textarea {
+  height: 200px;
+}
+
+#gmap {
+	min-height: 700px;
+}
+
+#contact #columns {
+  max-width: none;
+  overflow-x: hidden;
+}
+
+@media screen and (min-width: 799px) {
+	.contact-form-box {
+		position: absolute;
+		width: 320px;
+		margin-top: 0;
+	}
+}
+
+@media screen and (min-width: 1199px) {
+	.contact-form-box {
+		left: 12%;
+	}
+}

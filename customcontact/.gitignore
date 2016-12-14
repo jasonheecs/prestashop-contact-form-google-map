@@ -1,0 +1,3 @@
+.DS_Store
+/views/img/*
+!/views/img/.gitkeep
